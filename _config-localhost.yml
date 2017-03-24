@@ -17,13 +17,7 @@ repository               : "scoobac/scoobac-site" # GitHub username/repo-name
 teaser                   : /assets/images/scoobac-landingpage.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
-comments:
-  provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
-atom_feed:
-  path                   :
 
 # SEO Related
 google_site_verification :
@@ -50,10 +44,10 @@ analytics:
 # Site Author
 author:
   name             : "Per Starke"
-  avatar           : /assets/images/Gernot-avatar-2016.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/about/per_portrait.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Mitgründer von TeamCONCUS"
   location         : "Köln"
-  email            : info@arc42.org
+  email            : per@scoobac.org
   uri              :
   github           : scoobac
   google_plus      :

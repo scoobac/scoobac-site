@@ -1,5 +1,5 @@
 ---
-title: "Scoobac"
+title: Scoobac
 layout: splash
 permalink: /
 header:
@@ -44,16 +44,3 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-
-arc42 is based on **practical experience** of many systems in various domains,
-from information and web systems, real-time and embedded to business intelligence
-and data warehouses.
-
-arc42 provides a template for **documentation and communication** of software and system
-architectures.
-
-arc42 supports **arbitrary technologies and tools**.
-
-arc42 is completely process-agnostic, and especially
-well-suited for **lean and agile** development approaches.
