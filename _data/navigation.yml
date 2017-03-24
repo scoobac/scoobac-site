@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Mission"
+    url: /mission
+  - title: "Meinungen"
+    url: /documentation
+  - title: "Beispiele"
+    url: /beispiele
+  - title: "Über uns"
+    url: /about
+  - title: "Kontakt"
+    url: /contact
