@@ -18,39 +18,44 @@ feature_sarah:
  - image_path: /assets/images/about/sarah_portrait.png
    alt: Sarah Deubner
    title: Sarah Deubner
-   excerpt: 'lore ipsum nis dolum liquam teresse subotim. <br>Kontakt: sarah@scoobac.org'
+   excerpt: 'lore ipsum nis dolum liquam teresse subotim. <br><br>[<i class="fa fa-fw fa-envelope"/>sarah - at - scoobac.org](mailto:sarah@scoobac.org)'
 
 
 feature_laetitia:
     - image_path: /assets/images/about/laetitia_portrait.png
       alt: Laetitia Breitenbach
       title: Laetitia Breitenbach
-      excerpt: 'lore ipsum nis dolum liquam teresse subotim. <br>Kontakt: laetitia@scoobac.org'
+      excerpt: 'lore ipsum nis dolum liquam teresse subotim. <br><br>[<i class="fa fa-fw fa-envelope"/>laetitia - at - scoobac.org](mailto:laetitia@scoobac.org)'
 
 
 feature_milan:
    - image_path: /assets/images/about/milan_portrait.png
      alt: Milan Schaffrath
      title: Milan Schaffrath
-     excerpt: 'Unser Experte für Wirtschaft und Chemie. <br>Kontakt: milan@scoobac.org'
+     excerpt: 'Unser Experte für Wirtschaft und Chemie. <br><br>[<i class="fa fa-fw fa-envelope"/>milan - at - scoobac.org](mailto:milan@scoobac.org)'
 
 feature_robert:
   - image_path: /assets/images/about/robert_portrait.png
     alt: Robert Amelung
     title: Robert Amelung
-    excerpt: 'lore ipsum nis dolum liquam teresse subotim. <br>Kontakt: robert@scoobac.org'
+    excerpt: 'lore ipsum nis dolum liquam teresse subotim. <br><br>[<i class="fa fa-fw fa-envelope"/>robert - at - scoobac.org](mailto:robert@scoobac.org)'
 
 
 ---
 
 ## Unsere Idee...
 
-wurde im Rahmen von _Business@School_ geboren, einer Initiative der
-Boston Consulting Group.
+wurde im Rahmen von [_Business@School_](https://www.business-at-school.net)
+geboren, einer Bildungsinitiative der internationalen Unternehmensberatung
+[The Boston Consulting Group](http://www.bcg.de/).
+
+Wir bieten eine Digitalisierungsplattform, die Schülerinnen und Schüler ihre
+Stunden-, Raum- und Vertretungspläne in übersichtlicher Form zeigt.
+
+more-to-come...
 
 
 ## Unser Team
-
 
 {% include feature_row id="feature_per" type="left" %}
 
