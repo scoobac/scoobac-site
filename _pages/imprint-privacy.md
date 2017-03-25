@@ -19,7 +19,8 @@ Team CONCUS, vertreten durch:
 #### Kontakt
 
 Telefon: +49 160 93-26-88-17<br>
-e-Mail: per - at - starke-team - dot - de<br>
+e-Mail: <a href="xmxaxixlxtxo:xpxexr@xsxcxoxoxbxaxc.xoxrgx" onmouseover="this.href=this.href.replace(/x/g,'');"><i class="fa fa-fw fa-envelope"></i>Email (Adresse wird nach Klick sichtbar)</a>
+<br>
 
 #### Verantwortlich nach § 6 Abs.2 MDStV
 
@@ -27,7 +28,7 @@ Per Starke, (gesetzlich vertreten durch Dr. Gernot Starke).
 
 
 
-## (Datenschutzerklärung)
+## Datenschutzerklärung
 
 #### Geltungsbereich
 Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den vorstehend genannten Anbieter Per Starke auf dieser Website (im folgenden “Angebot”) auf.<br />

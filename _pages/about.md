@@ -11,7 +11,7 @@ feature_per:
   - image_path: //assets/images/about/per_portrait.png
     alt: "Per Starke"
     title: "Per Starke"
-    excerpt: 'Passionierter Sportler, der IT-ler im Team. Liest gerne.<br>Kontakt: per@scoobac.org'
+    excerpt: 'Passionierter Sportler, der IT-ler im Team. Hobbies: Lesen, tanzen, laufen, klettern, Mountainbike.<br>[<i class="fa fa-fw fa-envelope"/>per - at - scoobac.org](mailto:per@scoobac.org)'
 
 
 feature_sarah:

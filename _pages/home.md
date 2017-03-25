@@ -16,7 +16,7 @@ intro:
 
 feature_row:
   - title: "Stundenplan"
-    image_path: assets/images/communicate-icon.svg
+    image_path: assets/images/plan-icon.svg
     alt: "communicate-icon"
     excerpt: "Stundenplan, Räume und Vertretungen - stets aktuell und übersichtlich."
     url: "/overview"
@@ -24,14 +24,14 @@ feature_row:
     btn_class: "btn--info"
 
   - image_path: assets/images/develop-icon.svg
-    alt: "develop-icon"
+    alt: "news-icon"
     title: "News"
     excerpt: "Wichtige News rund um Schule - aus Freizeit, Musik, Sport, Kultur und allem, was euch interessiert."
     url: "/develop"
     btn_label: "Read More"
     btn_class: "btn--info"
 
-  - image_path: assets/images/workshop-icon.svg
+  - image_path: assets/images/material-icon.svg
     alt: "workshop-icon"
     title: "Material"
     excerpt: "Was immer ihr benötigt: Bücher, Hefte, Stifte und Sonstiges."
