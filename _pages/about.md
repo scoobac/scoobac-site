@@ -12,7 +12,7 @@ feature_per:
     alt: "Per Starke"
     title: "Per Starke"
     excerpt: 'Passionierter Sportler, der IT-ler im Team. Aktivitäten: Lesen, tanzen, laufen, klettern, Mountainbike.
-    <br><br>Per über Scoobac:
+    <br><br>Per über Scoobac: Pragmatisch, praktisch, gut.
     <br><br>[<i class="fa fa-fw fa-envelope"/>per - at - scoobac.org](mailto:per@scoobac.org)'
 
 
@@ -47,7 +47,7 @@ feature_robert:
     alt: Robert Amelung
     title: Robert Amelung
     excerpt: 'Unser Mann für Kommunikation. Aktivitäten: Rugby, Deutschunterricht für Flüchtlinge.<br>
-    <br>Robert über Scoobac: Wir wissen genau, was Schüler brauchen und liefern genau diesen Service.
+    <br>Robert über Scoobac: Wir wissen was Schüler brauchen und liefern genau diesen Service.
     <br><br>[<i class="fa fa-fw fa-envelope"/>robert - at - scoobac.org](mailto:robert@scoobac.org)'
 
 
