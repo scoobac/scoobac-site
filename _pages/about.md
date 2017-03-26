@@ -35,10 +35,12 @@ feature_milan:
      excerpt: 'Unser Experte für Wirtschaft und Chemie. <br><br>[<i class="fa fa-fw fa-envelope"/>milan - at - scoobac.org](mailto:milan@scoobac.org)'
 
 feature_robert:
-  - image_path: /assets/images/about/robert_portrait.png
+  - image_path: /assets/images/about/robert_portrait.jpg
     alt: Robert Amelung
     title: Robert Amelung
-    excerpt: 'lore ipsum nis dolum liquam teresse subotim. <br><br>[<i class="fa fa-fw fa-envelope"/>robert - at - scoobac.org](mailto:robert@scoobac.org)'
+    excerpt: 'Unser Mann für Kommunikation. Aktivitäten: Rugby, Deutschunterricht für Flüchtlinge.<br>
+    <br>Sein Statement zu Scoobac: Wir wissen genau, was Schüler brauchen und liefern genau diesen Service. 
+    <br><br>[<i class="fa fa-fw fa-envelope"/>robert - at - scoobac.org](mailto:robert@scoobac.org)'
 
 
 ---
