@@ -13,16 +13,13 @@ excerpt: "**Von Schülern für Schüler**"
 feature_row:
   - title: "Stundenplan"
     image_path: assets/images/plan-icon.svg
-    alt: "communicate-icon"
     excerpt: "Stundenplan, Räume und Vertretungen - stets aktuell und übersichtlich."
 
-  - image_path: assets/images/develop-icon.svg
-    alt: "news-icon"
+  - image_path: assets/images/info-icon.svg
     title: "News"
     excerpt: "Wichtige News rund um Schule - aus Freizeit, Musik, Sport, Kultur und allem, was euch interessiert."
 
-  - image_path: assets/images/material-icon.svg
-    alt: "workshop-icon"
+  - image_path: assets/images/book-icon.svg
     title: "Material"
     excerpt: "Was immer ihr benötigt: Bücher, Hefte, Stifte und Sonstiges."
 

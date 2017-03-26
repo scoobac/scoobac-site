@@ -4,7 +4,7 @@ layout: splash
 permalink: /about
 header:
   overlay_image: /assets/images/splash/scoobac-landingpage.jpg
-excerpt: "Schulalltag vereinfachen - das ist unsere Mission."
+excerpt: "**Wir vereinfachen<br>den Schulalltag**"
 
 
 feature_per:
@@ -22,7 +22,7 @@ feature_sarah:
 
 
 feature_laetitia:
-    - image_path: /assets/images/about/laetitia_portrait.png
+    - image_path: /assets/images/about/laetitia_portrait.jpg
       alt: Laetitia Breitenbach
       title: Laetitia Breitenbach
       excerpt: 'lore ipsum nis dolum liquam teresse subotim. <br><br>[<i class="fa fa-fw fa-envelope"/>laetitia - at - scoobac.org](mailto:laetitia@scoobac.org)'
@@ -39,7 +39,7 @@ feature_robert:
     alt: Robert Amelung
     title: Robert Amelung
     excerpt: 'Unser Mann für Kommunikation. Aktivitäten: Rugby, Deutschunterricht für Flüchtlinge.<br>
-    <br>Sein Statement zu Scoobac: Wir wissen genau, was Schüler brauchen und liefern genau diesen Service. 
+    <br>Sein Statement zu Scoobac: Wir wissen genau, was Schüler brauchen und liefern genau diesen Service.
     <br><br>[<i class="fa fa-fw fa-envelope"/>robert - at - scoobac.org](mailto:robert@scoobac.org)'
 
 
