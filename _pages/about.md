@@ -8,38 +8,46 @@ excerpt: "**Wir vereinfachen<br>den Schulalltag**"
 
 
 feature_per:
-  - image_path: //assets/images/about/per_portrait.jpg
+  - image_path: /assets/images/about/per_portrait.jpg
     alt: "Per Starke"
     title: "Per Starke"
-    excerpt: 'Passionierter Sportler, der IT-ler im Team. Hobbies: Lesen, tanzen, laufen, klettern, Mountainbike.<br>[<i class="fa fa-fw fa-envelope"/>per - at - scoobac.org](mailto:per@scoobac.org)'
+    excerpt: 'Passionierter Sportler, der IT-ler im Team. Aktivitäten: Lesen, tanzen, laufen, klettern, Mountainbike.
+    <br><br>Per über Scoobac:
+    <br><br>[<i class="fa fa-fw fa-envelope"/>per - at - scoobac.org](mailto:per@scoobac.org)'
 
 
 feature_sarah:
  - image_path: /assets/images/about/sarah_portrait.jpg
    alt: Sarah Deubner
    title: Sarah Deubner
-   excerpt: 'lore ipsum nis dolum liquam teresse subotim. <br><br>[<i class="fa fa-fw fa-envelope"/>sarah - at - scoobac.org](mailto:sarah@scoobac.org)'
+   excerpt: 'Erledigt unsere Finanzen. Aktivitäten: Physik, lesen. <br>
+   <br>Sarah über Scoobac: Alle wichtigen Infos an einer Stelle!<br>
+   <br>[<i class="fa fa-fw fa-envelope"/>sarah - at - scoobac.org](mailto:sarah@scoobac.org)'
 
 
 feature_laetitia:
     - image_path: /assets/images/about/laetitia_portrait.jpg
       alt: Laetitia Breitenbach
       title: Laetitia Breitenbach
-      excerpt: 'lore ipsum nis dolum liquam teresse subotim. <br><br>[<i class="fa fa-fw fa-envelope"/>laetitia - at - scoobac.org](mailto:laetitia@scoobac.org)'
+      excerpt: 'lore ipsum nis dolum liquam teresse subotim.
+      <br><br>Laetitia über Scoobac: Schule soll Spaß machen.
+      <br><br>[<i class="fa fa-fw fa-envelope"/>laetitia - at - scoobac.org](mailto:laetitia@scoobac.org)'
 
 
 feature_milan:
    - image_path: /assets/images/about/milan_portrait.jpg
      alt: Milan Schaffrath
      title: Milan Schaffrath
-     excerpt: 'Unser Experte für Wirtschaft und Chemie. <br><br>[<i class="fa fa-fw fa-envelope"/>milan - at - scoobac.org](mailto:milan@scoobac.org)'
+     excerpt: 'Unser Experte für Wirtschaft und Chemie.
+     <br><br>Milan über Scoobac:
+     <br><br>[<i class="fa fa-fw fa-envelope"/>milan - at - scoobac.org](mailto:milan@scoobac.org)'
 
 feature_robert:
   - image_path: /assets/images/about/robert_portrait.jpg
     alt: Robert Amelung
     title: Robert Amelung
     excerpt: 'Unser Mann für Kommunikation. Aktivitäten: Rugby, Deutschunterricht für Flüchtlinge.<br>
-    <br>Sein Statement zu Scoobac: Wir wissen genau, was Schüler brauchen und liefern genau diesen Service.
+    <br>Robert über Scoobac: Wir wissen genau, was Schüler brauchen und liefern genau diesen Service.
     <br><br>[<i class="fa fa-fw fa-envelope"/>robert - at - scoobac.org](mailto:robert@scoobac.org)'
 
 
