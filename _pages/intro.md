@@ -1,7 +1,7 @@
 ---
-title: Unsere Mission
+title: Das kann Scoobac
 layout: splash
-permalink: /mission
+permalink: /intro
 header:
   overlay_image: /assets/images/splash/scoobac-landingpage.jpg
   overlay_filter: rgba(254, 61, 88, 0.4)
@@ -10,17 +10,21 @@ excerpt: "**Schulalltag vereinfachen.**"
 
 
 planning:
-  - image_path: //assets/images/planning.jpg
+  - image_path: //assets/images/intro/mission-uebersicht.jpeg
     title: "Planung"
     excerpt: '<br>'
 
 
-
 ---
 
-
-
-
 # Unsere Mission
+
+![](assets/images/)
+
+Unsere Mission ist, allen Schülern die Alltagsprobleme abzunehmen.
+Scoobac bietet für jedes Problem einfache und effektive Lösungen.
+
+
+
 
 {% include feature_row id="planning" type="left" %}

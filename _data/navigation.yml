@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: Mission
-    url: /mission
+  - title: Intro
+    url: /intro
   - title: Meinungen
     url: /meinungen
   - title: Partner
